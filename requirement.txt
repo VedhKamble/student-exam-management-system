@@ -1,0 +1,5 @@
+mysql-python-connector
+matplotlib
+tkinter(pre-installed with python)
+hashlib
+PIL (png/jpg support)
